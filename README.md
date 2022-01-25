@@ -1,5 +1,7 @@
 ## Eaê! Seja bem-vindo ao meu perfil!
-### Eu me chamo Ícaro Gabriel, mas pode me chamar de Xalo Dev 👋😄�
+### Eu me chamo Ícaro Gabriel, mas pode me chamar de Xalo Dev 👋😄
+ <br>
+ <b>Link para o meu portfólio online:</b> <a href="https://xalodev.vercel.app">Xalo Dev</a>
  <br>
  <div>
   <a href="https://github.com/XaloDev">
