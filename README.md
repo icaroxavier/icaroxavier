@@ -2,7 +2,7 @@
 ### Eu me chamo Ícaro Gabriel, mas pode me chamar de Xalo Dev 👋😄�
  <br>
  <div>
-  <a href="https://github.com/wagnersillva">
+  <a href="https://github.com/XaloDev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XaloDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaloDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
