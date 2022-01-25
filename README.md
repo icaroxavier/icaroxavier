@@ -1,8 +1,8 @@
 ## Eaê! Seja bem-vindo ao meu perfil!
 ### Eu me chamo Ícaro Gabriel, mas pode me chamar de Xalo Dev 👋😄
+<b>Link para o meu portfólio online:</b> <a href="https://xalodev.vercel.app">Xalo Dev</a>
  <br>
- <b>Link para o meu portfólio online:</b> <a href="https://xalodev.vercel.app">Xalo Dev</a>
- <br>
+ 
  <div>
   <a href="https://github.com/XaloDev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XaloDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,8 +22,10 @@
   <img align="center" alt="Kaola-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Kaola-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
 <br>
 <br>
+
 <div> 
    <a href="https://instagram.com/icaro_xavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/%C3%ADcaro-gabriel-67148b1ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
