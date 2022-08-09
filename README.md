@@ -28,7 +28,7 @@
 
 <div> 
    <a href="https://instagram.com/icaro_xavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/%C3%ADcaro-gabriel-67148b1ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/%C3%ADcaro-xavier-67148b1ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:xalodeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send/?phone=5585998164001&text=Oi%2C+tudo+bem%3F&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-Q69?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
