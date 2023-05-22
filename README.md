@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile!
-### My name is Ícaro Gabriel, but you can call me Xalo Dev 👋😄
-<b>Link to my Online portfolio:</b> <a href="https://xalodev.vercel.app">Xalo Dev</a>
+### My name is Ícaro Xavier 👋😄
+<b>Link to my Online portfolio:</b> <a href="https://xalodev.vercel.app">Ícaro Xavier</a>
  <br>
  
  <div>
