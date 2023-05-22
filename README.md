@@ -4,9 +4,9 @@
  <br>
  
  <div>
-  <a href="https://github.com/XaloDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XaloDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaloDev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/icaroxavier">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=icaroxavier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroxavier&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <div style="display: inline_block"><br>
@@ -29,7 +29,7 @@
 <div> 
    <a href="https://instagram.com/icaro_xavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/icaroxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:xalodeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:icarogabriel999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send/?phone=5585998164001&text=Hello&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-Q69?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
 
